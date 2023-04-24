@@ -1,0 +1,1 @@
+java -jar "hospital_management_system.jar" 
